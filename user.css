@@ -132,7 +132,7 @@ button[aria-label="Playing"],
   margin-bottom: 12px !important;
 }
 
-/* for backward compatibility with older versions */
+/* keeping this for backward compatibility with older versions */
 .e-9640-button-primary:hover .e-9640-button-primary__inner {
   background-color: var(--spice-color) !important;
   filter: brightness(1.2) !important;
